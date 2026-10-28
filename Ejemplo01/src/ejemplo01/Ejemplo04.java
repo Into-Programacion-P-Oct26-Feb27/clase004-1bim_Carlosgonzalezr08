@@ -20,3 +20,5 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// El System.out.print me sirve para presentar todo en una sola linea
+// El System.out.println me sirve para presentar cada cosa en lineas distintas
